@@ -8,11 +8,11 @@ I have understood web content design by learning about HTML syntax, design for a
 
 ## Course 2: Introduction to CSS3
 **(A1)** I have understood the best practices for editing web layout using CSS3.  
-**(A2)** I have understood box models, styling lists and advanced selectors (e.g. class, descendants).
-**(A3)** I have understood how to style tables using pseudo-classes, pseudo-elements, transitions, transforms and positioning
+**(A2)** I have understood box models, styling lists and advanced selectors (e.g. class, descendants).  
+**(A3)** I have understood how to style tables using pseudo-classes, pseudo-elements, transitions, transforms and positioning  
 - [x] **Assignment 1**: Your First Styled Site  
 [https://gooddee.github.io/Web-Design-for-Everybody/CSS_Assignment1/index.html](https://gooddee.github.io/Web-Design-for-Everybody/CSS_Assignment1/index.html)  
 - [x] **Assignment 2**: Advanced Style  
 [https://gooddee.github.io/Web-Design-for-Everybody/CSS_Assignment2/index.html](https://gooddee.github.io/Web-Design-for-Everybody/CSS_Assignment2/index.html)
-- [x] **Assignment 3**: Styling A Table
+- [x] **Assignment 3**: Styling A Table  
 [https://gooddee.github.io/Web-Design-for-Everybody/CSS_Assignment3/index.html](https://gooddee.github.io/Web-Design-for-Everybody/CSS_Assignment3/index.html)
