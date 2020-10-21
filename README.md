@@ -16,3 +16,12 @@ I have understood web content design by learning about HTML syntax, design for a
 [https://gooddee.github.io/Web-Design-for-Everybody/CSS_Assignment2/index.html](https://gooddee.github.io/Web-Design-for-Everybody/CSS_Assignment2/index.html)
 - [x] **Assignment 3**: Styling A Table  
 [https://gooddee.github.io/Web-Design-for-Everybody/CSS_Assignment3/index.html](https://gooddee.github.io/Web-Design-for-Everybody/CSS_Assignment3/index.html)
+
+## Course 3: Interactivity with JavaScript  
+**(A1)** I have understood functions, variables, events and "this" used in JavaScript.  
+**(A2)** I have understood arrays, loopings, conditionals and form validations used in Javascript.  
+- [x] **Assignment 1**: Javascript Interactive Photo Gallery  
+[https://gooddee.github.io/Web-Design-for-Everybody/JS%20Assignment1/content.html](https://gooddee.github.io/Web-Design-for-Everybody/JS%20Assignment1/content.html)  
+- [x] **Assignment 2**: Autocomplete with JavaScript  
+[https://gooddee.github.io/Web-Design-for-Everybody/JS_Assignment2/index.html](https://gooddee.github.io/Web-Design-for-Everybody/JS_Assignment2/index.html)  
+
