@@ -25,3 +25,13 @@ I have understood web content design by learning about HTML syntax, design for a
 - [x] **Assignment 2**: Autocomplete with JavaScript  
 [https://gooddee.github.io/Web-Design-for-Everybody/JS_Assignment2/index.html](https://gooddee.github.io/Web-Design-for-Everybody/JS_Assignment2/index.html)  
 
+## Course 4: Advanced Styling and Responsive Design  
+**(A1)** I have understood fluid measurements, setting breakpoints, using wireframes and conducting media queries.  
+**(A2)** I have understood Bootstrap framework and its grid system.  
+**(A3)** I have understood case studies using Bootstrap: responsive images, tables and advanced navigations.  
+- [x] **Assignment 1**: Media Queries and Breakpoints  
+[https://gooddee.github.io/Web-Design-for-Everybody/Responsive_Assignment1/index.html](https://gooddee.github.io/Web-Design-for-Everybody/Responsive_Assignment1/index.html)  
+- [x] **Assignment 2**: Use Bootstrap to Create a Responsive Page  
+[https://gooddee.github.io/Web-Design-for-Everybody/Responsive_Assignment2/index.html](https://gooddee.github.io/Web-Design-for-Everybody/Responsive_Assignment2/index.html)  
+- [x] **Assignment 3**: Photo Gallery  
+[https://gooddee.github.io/Web-Design-for-Everybody/Responsive_Assignment3/index.html](https://gooddee.github.io/Web-Design-for-Everybody/Responsive_Assignment3/index.html)  
