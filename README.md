@@ -39,4 +39,6 @@ I have understood web content design by learning about HTML syntax, design for a
 ## Course 5: Web Design for Everybody Capstone
 I have practiced (1) writing wireframe to design the web, (2) using w3 validator and webaim accessibility checker to access the code accessibility, (3) create a responsive design to accomodate each screen size, (4) coding a well-styled site using CSS style sheet and (5) implement extra enhancements (e.g. Javascript, sticky footer, carousel, lightbox plugin)  
 - [x] **Capstone Project**: Create three HTML pages as portfolio (using Bootstrap framework)  
-[https://gooddee.github.io/Web-Design-for-Everybody/Capstone/index.html](https://gooddee.github.io/Web-Design-for-Everybody/Capstone/index.html)
+[https://gooddee.github.io/Web-Design-for-Everybody/Capstone/index.html](https://gooddee.github.io/Web-Design-for-Everybody/Capstone/index.html)  
+
+Warning: Please do not copy my work to submit on Coursera (but you can still look as guidelines). This series of courses is fun, and not difficult to complete.
