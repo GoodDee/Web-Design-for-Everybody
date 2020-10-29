@@ -1,0 +1,62 @@
+body {
+	max-width: 100%;
+	margin-left: 2%;
+	margin-top: 1%;
+	overflow-x: hidden;
+}
+
+.carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+footer {
+  height: 5%;
+  margin-bottom: 0%;
+  background: linear-gradient(70deg, #0ebeff, #47cf73);
+  margin-left: -2%;
+}
+
+#Logo {
+    width:100%;
+}
+
+@media screen and (min-width: 768px){
+#end_p {
+	font-size: 120%;
+	}
+}
+
+.content{
+	font-size: 120%;
+}
+
+.top-buffer { 
+	margin-top:20px; 
+}
+
+.land:hover{
+	background-color: rgb(255, 204, 255);
+}
+
+.strong_buffer{
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+
+#GCL_1{
+	border: 3px solid blue;
+}
+
+#GCL_2{
+	border: none;
+}
+
+#GCL_3{
+	border: none;
+}
+
+#GCL_4{
+	border: none;
+}
