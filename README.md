@@ -35,3 +35,8 @@ I have understood web content design by learning about HTML syntax, design for a
 [https://gooddee.github.io/Web-Design-for-Everybody/Responsive_Assignment2/index.html](https://gooddee.github.io/Web-Design-for-Everybody/Responsive_Assignment2/index.html)  
 - [x] **Assignment 3**: Photo Gallery  
 [https://gooddee.github.io/Web-Design-for-Everybody/Responsive_Assignment3/index.html](https://gooddee.github.io/Web-Design-for-Everybody/Responsive_Assignment3/index.html)  
+
+## Course 5: Web Design for Everybody Capstone
+I have practiced (1) writing wireframe to design the web, (2) using w3 validator and webaim accessibility checker to access the code accessibility, (3) create a responsive design to accomodate each screen size, (4) coding a well-styled site using CSS style sheet and (5) implement extra enhancements (e.g. Javascript, sticky footer, carousel, lightbox plugin)  
+- [x] **Capstone Project**: Create three HTML pages as portfolio (using Bootstrap framework)  
+[https://gooddee.github.io/Web-Design-for-Everybody/Capstone/index.html](https://gooddee.github.io/Web-Design-for-Everybody/Capstone/index.html)
